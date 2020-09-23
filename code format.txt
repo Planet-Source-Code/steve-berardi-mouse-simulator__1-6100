@@ -1,0 +1,14 @@
+Mouse Simulator (version 1.0)
+----------------------------------
+Code Format:
+
+_ _ - _ _ _ _ - _ _ _ _ - _ _ _
+ A       B         C        D
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A: Action Code
+B: X Position
+C: Y Position
+D: Duration
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
